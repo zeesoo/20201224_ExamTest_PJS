@@ -11,5 +11,6 @@
 
 <h1><a href="./boardList.do">글 목록 보기</a></h1>
 
+hihi
 </body>
 </html>
